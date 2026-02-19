@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+  <meta charset="utf-8"> 
+  <head>
+  </head> 
+
+<map id="mapa.Metuszek"> 
+            <area shape="poli" coords="14,55,49,0,85,55" href="mapa.Metuszek"> 
+            <area shape="rect" coords="16,115,83,63" href="mapa.Metuszek">
+            <area shape="circle" coords="272,500,420,634" href="mapa.Metuszek">
+            <area shape="rect" coords="275,512,634,729" href="mapa.Metuszek"> 
+            <area shape="circle" coords="281,491,731,934" href="mapa.Metuszek"> 
+</map> 
+  <img src="mapa.Metuszek" alt="tutaj wybieraj linki" usemap="#mapa.Metuszek">
+
+<body> 
+    <table width=65% border="1" align="center"> 
+        <tr> 
+            <td colspan="3"> 
+               <b>nagłówek</b>, 3-kolumny scalone  
+            </td> 
+        </tr> 
+        <tr> 
+            <td width=18% align="center"> 
+                  <a href="http://www.kuratorium.gda.pl" target="strony">Kuratorium</a> 
+         <br> 
+         <a href="http://www.zse.gda.pl" target="strony">ZSE  Gdańsk</a> 
+            </td> 
+            <td align=center> 
+                  <td align=center><iframe width=650 height=650 name="strony" src="start.html" border="0"></iframe> 
+      </td>  
+            </td> 
+            <td width=18% align="center"> 
+                  <td width=18% align="center"><a href="start.html" target="strony">Start</a>  
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="3"> 
+                <b>stopka</b>, 3-kolumny scalone   
+            </td> 
+        </tr> 
+    </table> 
+</body> 
+</html> 
